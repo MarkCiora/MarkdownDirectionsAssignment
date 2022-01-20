@@ -23,7 +23,7 @@ Minecraft is a very popular video game. Often, Minecraft players seek to play wi
 5. Repeat steps 1-3 until they can be done consistently and quickly
     - Your practice with two balls will help you get practice before you move onto 3
 
-![juggle 2 balls.png](juggle 2 balls.png)
+![juggle2.png](juggle2.png)
 
 6. Use 3 balls now.
     - In hand 1 hold 2 balls, and in hand 2 hold 1 ball
@@ -34,6 +34,6 @@ Minecraft is a very popular video game. Often, Minecraft players seek to play wi
 10. Throw the third ball as the second ball is about to come back down
 11. Repeat steps 7-10, keeping 1 to 2 balls in the air
 
-![juggle 3 balls.png](juggle 3 balls.png)
+![juggle3.png](juggle3.png)
 
 Congratulations! You can now juggle!
