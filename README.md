@@ -21,7 +21,7 @@ Juggling can be a profession, a fun way to kill time, or even just a great party
     - They might collide with each other, so try offsetting where you throw them from where you plan to catch them
 4. Catch the ball with your second hand 
     - This part can be difficult, so don't give up!
-5. Repeat steps 1-3 until they can be done consistently and quickly
+5. Repeat steps 1-4 until they can be done consistently and quickly
     - Your practice with two balls will help you get experience before you move onto three balls
 
 ![juggle2.png](juggle2.png)
@@ -33,7 +33,8 @@ Juggling can be a profession, a fun way to kill time, or even just a great party
 8. As the ball begins to come back down, throw the ball in the other hand
 9. Catch the first ball you threw
 10. Throw the third ball as the second ball is about to come back down
-11. Repeat steps 7-10, keeping one to two balls in the air
+11. Catch the second ball you threw
+12. Repeat steps 7-11 keeping one to two balls in the air
     - Try to get as many in a row as possible! Soon you will be able to juggle for minutes straight!
 
 ![juggle3.png](juggle3.png)
