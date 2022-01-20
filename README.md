@@ -1,6 +1,6 @@
 # How to Juggle
 
-Juggling is a fun way to kill time, and it can even be a great party trick. It seems challenging at first glance, but once you start trying to learn, juggling becomes a breeze. Follow these easy steps to learn how to juggle in no time!
+Juggling can be a fun way to kill time, profession, or even just a great party trick. It seems challenging at first glance, but once you start trying to learn, juggling becomes a breeze. Follow these easy steps to learn how to juggle in no time!
 
 ![top.png](top.png)
 
