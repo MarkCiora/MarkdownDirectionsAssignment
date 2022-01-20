@@ -7,8 +7,9 @@ Minecraft is a very popular video game. Often, Minecraft players seek to play wi
 ## Steps
 
 1. Find your IP address
-    - Click the search button, type "cmd", and hit enter. The search button is most likely in the bottom left corner. 
-    - A new window should now appear!
-    - Type "ipconfig" and hit enter
-    ![image_2022-01-20_144936.png](image_2022-01-20_144936.png)
+    - Click the search button, type "settings", and hit enter. The search button is most likely in the bottom left corner. 
+    - A new window should appear.
+    - Select "Network & Internet", then click on "properties"
+    ![image_2022-01-20_145713.png](image_2022-01-20_145713.png)
+    -
 2. 
