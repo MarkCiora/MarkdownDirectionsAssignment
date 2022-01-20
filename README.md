@@ -1,8 +1,9 @@
 # How to Juggle
 
+Juggling is a fun way to kill time, and it can even be a great party trick. It seems challenging at first glance, but once you start trying to learn, juggling becomes a breeze. Follow these easy steps to learn how to juggle in no time!
+
 ![top.png](top.png)
 
-Minecraft is a very popular video game. Often, Minecraft players seek to play with their friends on a server. There are several options for playing on other peoples' servers, but to achieve the most personalized experience a new Minecraft server must be created.
 
 ## Requirements
 
